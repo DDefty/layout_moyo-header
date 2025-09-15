@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
 }
 .nav {
@@ -34,19 +34,19 @@ ul {
   text-transform: uppercase;
 }
 a:hover {
-  color: #00ACDC;
+  color: #00acdc;
   text-decoration: underline;
-  text-decoration-color: #00ACDC;
+  text-decoration-color: #00acdc;
   text-decoration-thickness: 3px;
   text-underline-offset: 15px;
-
 }
-a, a:visited {
+a,
+a:visited {
   color: inherit;
   text-decoration: none;
 }
 .laptops {
-  color: #00ACDC;
+  color: #00acdc;
 }
 nav {
   height: 60px;
